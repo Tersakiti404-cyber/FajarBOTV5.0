@@ -1,5 +1,6 @@
 # wabot-aq
 Simple WhatsApp Bot
+Note: BOT INI ADALAH HASIL RECODE/EDIT SCRIPT ORANG
 
 ### FOR TERMUX USER
 ```bash
@@ -36,6 +37,6 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
+> Instagram: @mhmdfjralfarizi_
+> YouTube: Tersakiti Gans
 > CREDIT: NUROTOMO

@@ -5,7 +5,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Rec: Tersakiti Gans
 ╠➥ Script: @mhmdfjralfarizi_
 ║
-╠➥ Github: https://github.com/Tersakiti404-cyber/FajarBOTV5.0
+╠➥ Github: https://github.com/Tersakiti404-cyber/
 ╠➥ Instagram: @mhmdfjralfarizi_
 ╠➥ YouTube: Tersakiti Gans
 ║
